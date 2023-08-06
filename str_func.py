@@ -6,7 +6,7 @@ def get_upper(text):
 
 def get_title(textx):
 	"""
-
+hotFix
 	:param textx:
 	:return:
 	"""
