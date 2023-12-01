@@ -1,13 +1,15 @@
 def get_upper(text):
-	"""
- возвращает ее со всеми заглавными буквами
- """
-	return text.upper()
+    """
+    :param text: Текст
+    :return: Текст в верхнем регистре
+    """
+    return text.upper()
 
-def get_title(textx):
-	"""
-hotFix
-	:param textx:
-	:return:
-	"""
-	return textx.title()
+
+def get_title(text):
+    """
+    hotFix
+    :param text: Текст
+    :return: Текст с заглавной буквы
+    """
+    return text.title()
